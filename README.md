@@ -19,3 +19,4 @@ docker build . -t my-app
 ```bash
 docker run -p 8080:8080 my-app
 ```
+![Animated Profile Picture](https://phanhuong.com/img/amimated-portrait-phan-huong.jpg)
